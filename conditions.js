@@ -8,6 +8,5 @@ function condition() {
   }
 }
 
+const data = "6";
 condition();
-
-// 74 => A
